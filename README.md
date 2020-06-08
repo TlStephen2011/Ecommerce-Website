@@ -8,11 +8,11 @@ A side project build with Spring and Angular. The application provides cart and 
 - Maven
 
 ```
-$> cd 02-frontend
+$> cd 01-frontend
 $> npm run serve
 ```
 
 ```
-$> cd backend
+$> cd 02-backend
 $> mvn spring-boot:run
 ```
